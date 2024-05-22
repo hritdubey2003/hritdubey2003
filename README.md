@@ -43,6 +43,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=hritdubey2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hritdubey2003&limit=6&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=false&hide_title=false&hide_rank=false&card_width=450)
