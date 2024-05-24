@@ -25,7 +25,7 @@
 ## <picture><img src="" width="40"></picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/hritikdubey2003/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" width="60" height="60"></a>
+  <a href="https://leetcode.com/ChampInvincible07/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" width="60" height="60"></a>
 </p>
 
 # 💻 Tech Stack:
