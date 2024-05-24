@@ -10,11 +10,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hritdubey2003&abbreviated=true&label=Profile+Views)
 <br><br>
 
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on Ruby on Rails Stack.
 - 👨‍💻 I love using Software as a solution for every Problem.
-- 💻 I am a competitive programmer at Codeforces, Codechef, GeeksForGeeks.
+- 💻 I love to solve problem at Leetcode.
 - 👯 I’m looking to collaborate on Projects related to Website Development.
-- 🎓 I’m currently learning Computer Science and Software Engineering.
+- 🎓 I’m currently learning Electronics and Communication Engineering.
 - 📚 Always learning new things.
 - 💼 I’m currently open for a new job opportunity, this is [MY RESUME].
 
