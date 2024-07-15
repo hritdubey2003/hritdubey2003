@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Projects related to Website Development.
 - 🎓 I’m currently learning Electronics and Communication Engineering.
 - 📚 Always learning new things.
-- 💼 I’m currently open for a new job opportunity, this is [MY RESUME].
+- 💼 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1cgDSuucpt5acnpuw_YbaOuvsN9zQ4vhc/view">[MY RESUME]</a>.
 
 ## 🌐 Socials:
 
